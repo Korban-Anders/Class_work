@@ -1,0 +1,42 @@
+Jurassic Park
+1993
+127
+4
+Action 
+LazerDisk
+The Lost World
+1997
+129
+3
+Action 
+VHS
+Jurassic Park III
+2001
+92
+3
+Action 
+DVD
+Jurassic World
+2015
+124
+3
+Action 
+Streaming
+Jurassic World: Fallen Kingdom
+2018
+128
+1
+Action 
+Blu-Ray
+Jurassic World Dominion
+2022
+146
+2
+Action 
+Video File
+Star Wars Holiday Special
+1978
+98
+4
+Comedy Drama Kids Sci-Fi Television 
+VHS

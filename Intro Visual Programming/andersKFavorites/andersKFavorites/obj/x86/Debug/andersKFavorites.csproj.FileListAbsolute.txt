@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\bin\Debug\andersKFavorites.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\bin\Debug\andersKFavorites.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.MyMusicMix.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.Properties.Resources.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKFavorites\andersKFavorites\obj\x86\Debug\andersKFavorites.csprojResolveAssemblyReference.cache

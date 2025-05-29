@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\bin\Debug\andersKStormazon.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\bin\Debug\andersKStormazon.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.frmMovie.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.frmStrtFrom.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.Properties.Resources.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.frmMusic.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.frmVideoGame.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKStormazon\andersKStormazon\obj\x86\Debug\andersKStormazon.frmAbout.resources
