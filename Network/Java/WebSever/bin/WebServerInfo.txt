@@ -1,0 +1,1 @@
+Instructions for using javac, java, and CLI are in a tutorialpoints guide under CS bookmarks

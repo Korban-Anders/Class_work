@@ -1,0 +1,6 @@
+Project expectations:
+Your project should utilize computer science and data structures concepts including but not limited to:
+1.	exception handling, 
+2.	input/output, 
+3.	multiple data structures,
+4.	other programming and data structure constructs covered in this course.

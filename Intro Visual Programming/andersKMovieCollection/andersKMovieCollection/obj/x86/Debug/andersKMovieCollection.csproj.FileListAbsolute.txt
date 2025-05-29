@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\bin\Debug\andersKMovieCollection.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\bin\Debug\andersKMovieCollection.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.frmMyMovieCollection.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.frmAddMovie.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.Properties.Resources.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKMovieCollection\andersKMovieCollection\obj\x86\Debug\andersKMovieCollection.frmReadMovies.resources

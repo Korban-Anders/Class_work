@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\bin\Debug\andersKYourStore.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\bin\Debug\andersKYourStore.pdb
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.Form1.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.Properties.Resources.resources
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.exe
+C:\Users\Owner\Documents\Homework PFW\Spring 2024\CS-11400-IST-14000 Into to Visual Programming\projects\andersKYourStore\andersKYourStore\obj\x86\Debug\andersKYourStore.pdb

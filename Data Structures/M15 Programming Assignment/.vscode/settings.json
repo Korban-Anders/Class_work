@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "regex": "cpp",
+        "xiosbase": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "string": "cpp"
+    }
+}
